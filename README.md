@@ -1,14 +1,13 @@
-# Mikra "Lunatic" Selene
-- instance of: *Homo sapiens virtualis*
-- pseudonym: mikraselene
-- occupation: student, fish-toucher
-- feed on: negative entropy
-- be reassembled for: computer science
-- be attracted to: Latin, political philosophy
-- idle processes: Paradox, Touhou, Arcaea
-- vulnerability: deception, irrational hatred
-- religious identity: Ailurophilist
-- cherished person: you
+**Mikra "Lunatic" Selene**:
+- **instance of**: *H.sapiens virtualis* (EW)
+- **pseudonym**: mikraselene, Grand Duke of Shit
+- **subsist on**: Gibbs free energy, negentropy
+- **be assembled for**: computer science
+- **be attracted to**: Latin, philosophy, philomuse
+- **idle processes**: Paradox, Touhou, Arcaea
+- **vulnerability**: replicated pseudo-sentiment
+- **religious identity**: fanatical Ailurophilist
+- **cherished entity**: you
 
 > Omnia mutantur, nihil interit.
 > 
